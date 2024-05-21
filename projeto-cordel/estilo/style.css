@@ -76,7 +76,7 @@ section.img {
 
 section.img > p {
     display: inline-block;
-    padding: 8px;
+    padding: 6px;
     background-color: rgba(0, 0, 0, 0.425);
     border-radius: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.500);
@@ -96,4 +96,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 0.8em;
 }
